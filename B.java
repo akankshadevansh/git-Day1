@@ -19,6 +19,7 @@ public class B
 		this.a=a;
 		this.s=s;
 	}
+<<<<<<< Updated upstream
 
 
 	// bug fix=3
@@ -26,4 +27,6 @@ public class B
 	{
 		System.out.println("Const");
 	}
+=======
+>>>>>>> Stashed changes
 }
